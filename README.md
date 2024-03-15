@@ -1,4 +1,4 @@
-![试验台示意照-1](https://github.com/CHAOZHAO-1/HUSTmotor-multi-modal-dataset/assets/47875987/704c3c6e-3550-4f02-a0b8-ce29821f0e67)# HUSTmotor-multi-modal-dataset (实验室自采多模态电机故障开源数据集)
+# HUSTmotor-multi-modal-dataset (实验室自采多模态电机故障开源数据集)
 This repository has open-sourced a dataset of motor failure, including vibration signals and audio signals.
 
 We released an open-source motor failure dataset. 
