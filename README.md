@@ -18,7 +18,7 @@ Publications making use of the HUSTmotor multimodal datasets are requested to ci
 
 ![image](https://github.com/CHAOZHAO-1/HUSTmotor-multi-modal-dataset/blob/main/IMG/F4.png)
 
-Fig. 1. (a) Test rig of HUSTmotor multimodal dataset.
+Fig. 1. (a) Test rig of HUSTbearing dataset.
 
 ## Brief introduction to experiments
 
@@ -28,12 +28,12 @@ The Motor fault tests were conducted using a Spectra-Quest Mechanical Fault Simu
 
 The motors in six health states includes:
 
-(1) healthy----H
-(2) bearing fault----BF
-(3) bowed rotor----BOW
-(4) broken rotor bars----BROKEN
-(5) rotor misalignment----MISAL
-(6) voltage unbalance----UNBAL
+(1) healthy----H   
+(2) bearing fault----BF  
+(3) bowed rotor----BOW  
+(4) broken rotor bars----BROKEN  
+(5) rotor misalignment----MISAL  
+(6) voltage unbalance----UNBAL  
 
 It's important to note that all faults are artificially preset.
 
@@ -71,3 +71,11 @@ BROKEN: broken rotor bars
 MISAL: rotor misalignment
 
 UNBAL: voltage unbalance
+
+
+## Contact
+
+If you have any questions or suggestions, do not hesitate to contact: 
+
+Mr. Chao Zhao, zhaochao734@hust.edu.cn
+
