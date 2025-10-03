@@ -1,24 +1,37 @@
-# HUSTmotor-multi-modal-dataset (实验室自采多模态电机故障开源数据集)
-
-We released an open-source motor failure dataset. 
+We released an open-source multimodal motor failure dataset. 
 
 We hope this dataset can benefit your research.
 
-data of Google Drive: (We will release dataset as soon as possible)
+Data of Google Drive: https://drive.google.com/drive/folders/1XmahwIQ4o66FC3dpOaeTV-gqz2dd0XBw?usp=sharing
+
+Data of Quark Netdisk:  https://pan.quark.cn/s/61c75de606e8
+
+
+
+
+**The following is a brief introduction to the dataset. For more detailed information, please refer to the dataset description file.**
+
 
 
 ## Dataset overview
 
 
 This dataset comprises vibration signals and acoustic signals from motors in **6** different health states under **4** distinct operating conditions.   
+
 These datasets are publicly available, and anyone can use them to validate diagnosis algorithms.   
+
 Publications making use of the HUSTmotor multimodal datasets are requested to cite the following paper.  
 
-**Chao Zhao, Enrico Zio, Weiming Shen, Domain Generalization for Cross-Domain Fault Diagnosis: an Application-oriented Perspective and a Benchmark Study, Reliability Engineering and System Safety (2024), doi: https://doi.org/10.1016/j.ress.2024.109964.**
+
+
+**Chao Zhao, Weiming Shen, Enrico Zio, Hui Ma, Multimodal unified generalization and translation network for intelligent fault diagnosis under dynamic environments. Engineering Applications of Artificial Intelligence, Volume 162, Part C, 2025, 112559.**
+
+
 
 ![image](https://github.com/CHAOZHAO-1/HUSTmotor-multi-modal-dataset/blob/main/IMG/F4.png)
 
-Fig. 1. (a) Test rig of HUSTbearing dataset.
+
+Fig. 1. (a) Test rig of HUSTmotor Multimodal dataset.
 
 ## Brief introduction to experiments
 
@@ -49,7 +62,7 @@ A total of 4 different operating conditions were set in experiments. The operati
 
 ### Sampling setting
    
-The sampling frequency is set to 25.6 kHz. A total of 262144 data points (i.e. 10.2s) are recorded for each sampling.
+The sampling frequency is set to 25.6 kHz. A total of 163840 data points (i.e. 6.4s) are recorded for each sampling.
  
 
 ## Dataset details
@@ -77,5 +90,5 @@ UNBAL: voltage unbalance
 
 If you have any questions or suggestions, do not hesitate to contact: 
 
-Mr. Chao Zhao, zhaochao734@hust.edu.cn
+Mr. Chao Zhao, zhaochao0612@gmail.com
 
