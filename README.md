@@ -1,3 +1,6 @@
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=CHAOZHAO-1.HUSTmotor-multi-modal-dataset)
+
+
 We released an open-source multimodal motor failure dataset. 
 
 We hope this dataset can benefit your research.
