@@ -12,13 +12,13 @@ Data of Quark Netdisk / 夸克网盘数据: https://pan.quark.cn/s/5366b229f134
 
 ## Update 2026-10-29 / 更新（2026-10-29）
 
-Files for the same fault class at 5, 10, 20, and 30 Hz come from the same motor.
+1.Files for the same fault class at 5, 10, 20, and 30 Hz come from the same motor.
 同一故障类别在 5、10、20、30 Hz 下的文件来自同一台电机。
 
-Each "class × speed" combination is an independent acquisition. The time blocks within a file are part of the result of a single acquisition.
+2.Each "class × speed" combination is an independent acquisition. The time blocks within a file are part of the result of a single acquisition.
 每个"类别×转速"组合都是一次独立采集。文件内的各时间块属于同一次采集的结果。
 
-The speed in the file name is the motor's set value.
+3.The speed in the file name is the motor's set value.
 文件名中的转速为电机的设定值。
 
 **The following is a brief introduction to the dataset. For more detailed information, please refer to the dataset description file.**
